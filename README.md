@@ -1,6 +1,6 @@
 # Portafolio Interactivo
 
-Página desarrollada para la Práctica Calificada 3 del curso **Hojas de Estilo en Cascada Avanzado**.
+Página desarrollada para mi Práctica Calificada 3 del curso **Hojas de Estilo en Cascada Avanzado**.
 
 Utilicé **Bootstrap 5** para organizar la navegación, las columnas y el formulario de contacto. La página presenta tres proyectos de Chilete DevPath y se adapta a escritorio, tablet y celular.
 
@@ -28,5 +28,4 @@ Abrir `index.html` en el navegador o ejecutarlo con **Live Server** desde Visual
 
 El formulario verifica los campos, pero **no envía mensajes** porque el proyecto no incluye un servidor de correo.
 
-**Autor:** Chilete DevPath  
-**Sitio:** https://chiletedevpath.com/
+**Autor:** Chilete DevPath by Adrian Pisco **Sitio:** https://chiletedevpath.com/
